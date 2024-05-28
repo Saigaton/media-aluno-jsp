@@ -4,4 +4,4 @@ Este foi um projeto desenvolvido com os estudos de cliente/servidor da faculdade
 
 Foi desenvolvido uma pagina html onde as request eram processadas em uma pagina JSP (Java Server Pages);
 
-Para rodar este sistema user o servidor tomcat v9;
+Para rodar este sistema use de preferência o servidor tomcat v9;
